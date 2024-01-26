@@ -11,7 +11,7 @@
 body {
     min-height: 100vh;
     position:  relative;
-    background: url('./Images/Background.jpg') no-repeat;
+    background: url('./Images/background.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     backdrop-filter: blur(1px);
